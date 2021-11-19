@@ -1,0 +1,20 @@
+PODS:
+  - DropDown (2.3.13)
+  - Swifty360Player (0.2.5)
+
+DEPENDENCIES:
+  - DropDown
+  - Swifty360Player
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - Swifty360Player
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Swifty360Player: 56956060744f97f5f89340235fc85e2f9176c2a1
+
+PODFILE CHECKSUM: 2602c868c32059edbcb9601bf9192bf8cd401027
+
+COCOAPODS: 1.10.1
