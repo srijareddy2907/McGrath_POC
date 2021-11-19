@@ -11,13 +11,13 @@ class TestViewController: UIViewController {
 
     //change 1
     //creating variables
-    var name1:String = "Srija"
+    var name1:String = "SRIJA REDDY" // change 2
     var name2:String = "akhil"
     
-    override func viewDidLoad() {
+    override func viewDidLoad() { 
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        // Do any additional setup after loadi ng the view.
     }
 
 }
